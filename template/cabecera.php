@@ -57,7 +57,7 @@ include("carrito.php");
                 <a class="nav-link" href="contacto.php">Contactanos</a>
             </li>
             <li class="nav-item active">
-                <a class="nav-link" href="#">Acceder</a>
+                <a class="nav-link" href="administrador/index.php">Acceder</a>
             </li>
             <li class="nav-item active">
                 <a class="nav-link" href="mostrarCarrito.php">Carrito(<?php
