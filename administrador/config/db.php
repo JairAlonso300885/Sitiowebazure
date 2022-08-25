@@ -3,10 +3,10 @@
 
 
 
-$host = "localhost";
+$host = "basededatosazure.mysql.database.azure.com";
 $bd = "arc_technology";
-$usuario = "root";
-$contraseña = "";
+$usuario = "Basededatosazure@basededatosazure";
+$contraseña = "Jair300885";
 
 try {
     //conexion a base de datos
